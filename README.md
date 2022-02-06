@@ -8,3 +8,7 @@ Dépot du projet Wims PHP CI
 
 ## Liens
 * [Rapport](https://github.com/Dylan-GIRAULT/Doodle_like/wiki/Rapport)
+
+## Information
+
+Utilisation de [CodeIgniter](https://codeigniter.com/) et d'une base de donnée 
